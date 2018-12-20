@@ -1,1 +1,1 @@
-# Chess
+This is an implementation of two player chess with all working standardized rules. This implementation was ported to the SpigotMC API, which made for a decent platform for players to play. The original release page can be seen here: https://www.spigotmc.org/resources/inventorychess%E2%99%9B.30858/
